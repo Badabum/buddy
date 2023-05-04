@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{40B62EE8-741E-4D38-A9D8-94B1DFE22466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buddy.Cli", "apps\Buddy.Cli\Buddy.Cli.csproj", "{7FE04A67-0405-430A-B533-9943AE09B392}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libraries", "libraries", "{780497A6-0075-4A7A-A5A4-89361C547580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7FE04A67-0405-430A-B533-9943AE09B392} = {40B62EE8-741E-4D38-A9D8-94B1DFE22466}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE04A67-0405-430A-B533-9943AE09B392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE04A67-0405-430A-B533-9943AE09B392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE04A67-0405-430A-B533-9943AE09B392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE04A67-0405-430A-B533-9943AE09B392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
